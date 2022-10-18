@@ -36,13 +36,4 @@ world.
 """
 ```
 
-## String interpolation
-
-Swift can handle variables by providing a backslash with brackets `\(variable)`
-
-Example
-```swift
-var name = "Juli"
-var str = "My name is \(name)"
-```
 
